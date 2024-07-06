@@ -1,6 +1,6 @@
 kafka-python==2.0.2
 requests==2.31.0
-psycopg2==2.9.6
+psycopg2-binary==2.9.6
 telebot==0.0.4
 apache-airflow==2.6.3
 apache-airflow-providers-postgres==4.1.0
